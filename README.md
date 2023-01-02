@@ -1,5 +1,5 @@
 # HackFb
-Selamat mencoba edisi BLT 
+Selamat mencoba edisi Bansos
 
 $ pkg update && pkg upgrade
 
@@ -19,4 +19,4 @@ $ cd HackFb
 
 $ git pull
 
-$ python BLT.py
+$ python Bansos.py
