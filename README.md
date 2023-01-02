@@ -1,5 +1,5 @@
 # HackFb
-Selamat mencoba trial nya
+Selamat mencoba edisi BLT 
 
 $ pkg update && pkg upgrade
 
@@ -19,4 +19,4 @@ $ cd HackFb
 
 $ git pull
 
-$ python Mario-BL.py
+$ python BLT.py
