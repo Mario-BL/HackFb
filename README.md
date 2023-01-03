@@ -19,4 +19,14 @@ $ cd HackFb
 
 $ git pull
 
-$ python Bansos.py
+Ada 2 opsi bila ingin login (token dan cookie)
+
+PILIH SALAH SATU 
+
+Opsi 1
+
+$ python token.py
+
+Opsi 2
+
+$ python cookie.py
