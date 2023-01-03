@@ -1,5 +1,5 @@
 # HackFb
-Selamat mencoba edisi Bansos
+Selamat mencoba ^⁠_⁠^
 
 $ pkg update && pkg upgrade
 
@@ -19,14 +19,10 @@ $ cd HackFb
 
 $ git pull
 
-Ada 2 opsi bila ingin login (token dan cookie)
+Ada 2 opsi login fb:
 
-PILIH SALAH SATU 
-
-Opsi 1
-
+Opsi 1 :
 $ python token.py
 
-Opsi 2
-
+Opsi 2 :
 $ python cookie.py
