@@ -19,10 +19,4 @@ $ cd HackFb
 
 $ git pull
 
-Ada 2 opsi login fb:
-
-Opsi 1 :
 $ python token.py
-
-Opsi 2 :
-$ python cookie.py
